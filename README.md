@@ -1,4 +1,9 @@
-## Hi there 👋
+<!-- CONFIG
+FULL_NAME: Laura Vanessa Perez Perdomo
+GITHUB_USER: vanessaperdomo
+EMAIL: p.laurav2@gmail.com
+CODE_ORGANIZATION: code-sena
+-->
 
 <!--
 **vanessaperdomo/vanessaperdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
